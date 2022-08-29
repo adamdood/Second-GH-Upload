@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA082B1D28BD597E00D1DCA1 /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA082B1C28BD597E00D1DCA1 /* MyModel.swift */; };
 		BA65036C28BC515C0084A186 /* SecondPushToGitHubApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA65036B28BC515C0084A186 /* SecondPushToGitHubApp.swift */; };
 		BA65036E28BC515C0084A186 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA65036D28BC515C0084A186 /* ContentView.swift */; };
 		BA65037028BC515E0084A186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA65036F28BC515E0084A186 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA082B1C28BD597E00D1DCA1 /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 		BA65036828BC515C0084A186 /* SecondPushToGitHub.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SecondPushToGitHub.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA65036B28BC515C0084A186 /* SecondPushToGitHubApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPushToGitHubApp.swift; sourceTree = "<group>"; };
 		BA65036D28BC515C0084A186 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				BA65036B28BC515C0084A186 /* SecondPushToGitHubApp.swift */,
 				BA65036D28BC515C0084A186 /* ContentView.swift */,
+				BA082B1C28BD597E00D1DCA1 /* MyModel.swift */,
 				BA65036F28BC515E0084A186 /* Assets.xcassets */,
 				BA65037128BC515E0084A186 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BA65036E28BC515C0084A186 /* ContentView.swift in Sources */,
+				BA082B1D28BD597E00D1DCA1 /* MyModel.swift in Sources */,
 				BA65036C28BC515C0084A186 /* SecondPushToGitHubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
